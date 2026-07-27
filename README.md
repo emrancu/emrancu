@@ -1,8 +1,9 @@
 # Hi, I'm Al Emran 👋
 
-Software Architect, Full-stack Engineer, and CTO with 10+ years of experience building SaaS products, developer tools, and scalable backend systems.
+Software Architect, Full-stack Engineer with a strong record of building and scaling SaaS applications from the ground up. 
+Proven leadership in architecting SAAS, managing development teams. Passionate about clean architecture, developer efficiency, and building long-term scalable solutions.
 
-I enjoy building frameworks, improving developer experience (DX), designing clean architectures, and contributing to open source.
+### Currently building framework for Cloudflare Worker - [FlyingWorker](https://github.com/flying-worker/flying-worker)
 
 💼 **LinkedIn:** https://linkedin.com/in/alemrancu
 
