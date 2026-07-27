@@ -3,13 +3,12 @@
 Software Architect, Full-stack Engineer with a strong record of building and scaling SaaS applications from the ground up. 
 Proven leadership in architecting SAAS, managing development teams. Passionate about clean architecture, developer efficiency, and building long-term scalable solutions.
 
-### Currently building framework for Cloudflare Worker - [FlyingWorker](https://github.com/flying-worker/flying-worker)
+## 🌱 Currently Building
 
-💼 **LinkedIn:** https://linkedin.com/in/alemrancu
+**Flying Worker** – A Laravel-inspired DX framework for Cloudflare Workers built on Hono.
 
 ## 🚀 Open Source
 
-### PHP
 - **WP Plugin Master** – WordPress Plugin Development Framework  
   🔗 https://github.com/emrancu/wp-plugin-master
 
@@ -18,8 +17,7 @@ Proven leadership in architecting SAAS, managing development teams. Passionate a
 
 - **PHP MVC Framework** – Learning-oriented MVC framework with modern architecture  
   🔗 https://github.com/emrancu/php-mvc-framework
-
-### JavaScript
+  
 - **Web Toast Plugin**  
   🔗 https://github.com/emrancu/web-toast
 
@@ -29,15 +27,9 @@ Proven leadership in architecting SAAS, managing development teams. Passionate a
 - **Field Validator JS**  
   🔗 https://github.com/emrancu/field-validator-js
 
-- **Image Preview & Validation**  
-  🔗 https://github.com/emrancu/image-preview-validation
-
-- **DateTimeShowInBangla**  
-  🔗 https://github.com/emrancu/DateTimeShowInBangla
-
 ## ✍️ Technical Writing
 
-I regularly write engineering articles on **Dev.to**, including:
+I write engineering articles on **Dev.to**, including:
 
 - Dependency Injection Container in PHP  
   https://dev.to/emrancu
@@ -52,10 +44,6 @@ I regularly write engineering articles on **Dev.to**, including:
 ## 🛠 Tech Stack
 
 PHP • Laravel • Node.js • TypeScript • Hono • Vue • React • Next.js • Docker • PostgreSQL • MySQL • Redis • Cloudflare Workers • AWS • CI/CD
-
-## 🌱 Currently Building
-
-**Flying Worker** – A Laravel-inspired DX framework for Cloudflare Workers built on Hono.
 
 ## 📫 Connect
 
