@@ -5,7 +5,7 @@ Proven leadership in architecting SAAS, managing development teams. Passionate a
 
 ## 🌱 Currently Building
 
-**Flying Worker** – A Laravel-inspired DX framework for Cloudflare Workers built on Hono.
+**Flying Worker** – [A Laravel-inspired DX framework for Cloudflare Workers built on Hono.](https://github.com/flying-worker/flying-worker)
 
 ## 🚀 Open Source
 
