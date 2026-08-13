@@ -8,6 +8,8 @@ Proven leadership in architecting SAAS, managing development teams. Passionate a
 **Flying Worker** – [A Laravel-inspired DX framework for Cloudflare Workers built on Hono.](https://github.com/flying-worker/flying-worker)
 
 ## 🚀 Open Source
+- **ParallelDev** - Run Multiple AI Coding Agents in Parallel — Natively
+  🔗 https://github.com/optivise-lab/parallel-dev
 
 - **WP Plugin Master** – WordPress Plugin Development Framework  
   🔗 https://github.com/emrancu/wp-plugin-master
